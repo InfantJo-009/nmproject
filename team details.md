@@ -1,6 +1,6 @@
 # Streamlining Ticket Assignment for Efficient Support Operations Using ServiceNow
 
-Team ID : #NM2025TMID03589
+Team ID : NM2025TMID03589
 
 Team Size : 4
 
