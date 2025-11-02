@@ -1,5 +1,4 @@
-Streamlining Ticket
-Assignment for Efficient Support Operations Using ServiceNow
+# Streamlining Ticket Assignment for Efficient Support Operations Using ServiceNow
 
 Team ID : #NM2025TMID03589
 
